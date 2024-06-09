@@ -27,7 +27,7 @@ final class Init
         return [
             AjaxHandler::class => [self::$configService],
             Enqueue::class => [],
-            Dashboard::class => [],
+            Dashboard::class => [self::$configService],
             Settings::class => [self::$configService],
             SettingLinks::class => [],
         ];
