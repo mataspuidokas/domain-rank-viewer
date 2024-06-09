@@ -11,6 +11,7 @@
  Author URI: https://www.mataspuidokas.com/
  Lincense: MIT
  Text Domain: Domain rank Viewer
+ Requires PHP: 8.2
  */ 
 
 use Src\Includes\Activate;
