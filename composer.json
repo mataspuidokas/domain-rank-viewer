@@ -1,0 +1,19 @@
+{
+    "name": "mataspuidokas/domain-rank-viewer",
+    "description": "Autoload for domain rank viewer plugin",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "matas",
+            "email": "mataspuidokas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
