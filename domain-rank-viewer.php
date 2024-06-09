@@ -4,7 +4,7 @@
  */
 /*
  Plugin Name: Domain Rank Viewer
- Plugin URI: https://github.com/mataspuidokas
+ Plugin URI: https://github.com/mataspuidokas/domain-rank-viewer
  Description: A plugin to display a list of domains and their PageRank in the WP Admin panel.
  Version: 0.0.1
  Author: Matas Puidokas
