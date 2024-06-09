@@ -3,7 +3,7 @@
         'name' => 'mataspuidokas/domain-rank-viewer',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'e7c1d241aea513cb94b9ad505ba5c97bed7bcd06',
+        'reference' => '15ec6ab8d10f5dcedfd89fb0d7d2adaddb533175',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'mataspuidokas/domain-rank-viewer' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'e7c1d241aea513cb94b9ad505ba5c97bed7bcd06',
+            'reference' => '15ec6ab8d10f5dcedfd89fb0d7d2adaddb533175',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
