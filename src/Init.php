@@ -5,8 +5,10 @@
 
 namespace Src;
 
+use Src\Includes\Enqueue;
 use Src\Pages\Admin\Dashboard;
 use Src\Pages\Admin\Settings;
+use Src\Includes\SettingLinks;
 
 defined('ABSPATH') || exit;
 
@@ -18,8 +20,10 @@ final class Init
     public static function getServices(): array
     {
         return [
+            Enqueue::class,
             Dashboard::class,
             Settings::class,
+            SettingLinks::class,
         ];
     }
 
